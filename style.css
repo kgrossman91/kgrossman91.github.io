@@ -14,6 +14,11 @@ body {
 section {
 	margin: 200px 0 0 150px;
 }
+.taaskyLogo { 
+	background: url("images/logo-taasky.png") no-repeat;
+	height:44px;
+	width:147px;
+}
 hr {
 	border: 1px #fd6e6e solid;
 	margin-bottom: 20px;
