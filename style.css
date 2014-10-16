@@ -14,10 +14,17 @@ body {
 section {
 	margin: 200px 0 0 150px;
 }
+<<<<<<< Updated upstream
 .taaskyLogo { 
 	background: url("images/logo-taasky.png") no-repeat;
 	height:44px;
 	width:147px;
+=======
+.tasskylogo {
+	background: url("images/logo-taasky.png") no-repeat;
+	height: 44px
+	width: 147px;
+>>>>>>> Stashed changes
 }
 hr {
 	border: 1px #fd6e6e solid;
