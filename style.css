@@ -1,13 +1,14 @@
 * { 
 	margin:0; 
 	padding:0; 
-	box-sizing:sborder-box; 
+	box-sizing:border-box; 
 }
 body {
 	background: url("images/stripes.png") repeat-x, url("images/background.jpg") no-repeat;
+	background-color: #525a6a;
 	background-size: auto, cover;
-	color: #ffffff;
-	font-family: Arial;
+	color: #fff;
+	font-family: sans-serif;
 	font-size: 20px;
 }
 section {
@@ -20,6 +21,7 @@ hr {
 	margin-top: 20px;
 	width: 50px;
 }
+p { }
 #appStore {
 	margin-top: 20px;
 }
