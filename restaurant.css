@@ -1,0 +1,41 @@
+* { 
+	margin:0; 
+	padding:0; 
+	box-sizing:border-box; 
+}
+body {
+	background: url("images/restaurant1.jpg") no-repeat;
+	background-size: cover;
+	background-color: #525a6a;
+	vertical-align: middle;
+	margin: 5% auto 5% auto;
+}
+img {
+	margin-top: 0px;
+	margin-left: 450px;
+	min-width: 100px;
+	min-height: 100px;
+	max-width: 300px;
+	max-height: 300px;
+}
+h1 {
+	margin-top: 30px;
+	text-align: center;
+	color:#fff;
+	font-family: noteworthy, sans-serif;
+	font-size: 50px;
+}
+p {
+	margin-top: 1px;
+	text-align: center;
+	color:#fff;
+	font-family: noteworthy, sans-serif;
+	font-size: 30px;
+}
+hr {
+	border: 2px #fff solid;
+	margin-top: 20px;
+	margin-right: auto;
+	margin-left: auto;
+	width: 800px;
+}
