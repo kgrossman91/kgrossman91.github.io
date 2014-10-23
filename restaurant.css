@@ -11,10 +11,6 @@ body {
 img {
 	margin-top: 0px;
 	margin-left: 450px;
-	min-width: 100px;
-	min-height: 100px;
-	max-width: 300px;
-	max-height: 300px;
 }
 h1 {
 	margin-top: 30px;
@@ -36,4 +32,10 @@ hr {
 	margin-right: auto;
 	margin-left: auto;
 	width: 800px;
+}
+.logo {
+	background: url("images/tflogo.png") no-repeat;
+	background-size:cover;
+	height:659px;
+	width:659px;
 }
