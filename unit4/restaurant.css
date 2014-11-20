@@ -1,0 +1,42 @@
+* { 
+	margin:0; 
+	padding:0; 
+	box-sizing:border-box; 
+}
+body {
+	background: url("images/restaurant1.jpg") no-repeat;
+	background-size: cover;
+	background-color: #525a6a;
+}
+header {
+	margin:0 auto;
+	width:620px;
+}
+h1 {
+	margin-top: 10px;
+	color:#fff;
+	font-family: sans-serif;
+	font-size: 66px;
+}
+p {
+	margin-top: 1px;
+	color:#fff;
+	font-family: sans-serif;
+	font-size: 30px;
+}
+hr {
+	border: 2px #fff solid;
+	width: 620px;
+	margin: 10px 0 0 0;
+}
+.logo {
+	background: url("images/tflogo.png") no-repeat;
+	background-size:cover;
+	height:200px;
+	width:200px;
+	margin: 100px auto 0 auto;
+}
+.tagline {
+	width: 340px;
+	margin:0 auto;
+}
